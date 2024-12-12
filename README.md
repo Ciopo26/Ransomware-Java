@@ -9,6 +9,7 @@ Utilizzatelo con responsabilità e rispettando le leggi locali, nazionali e inte
 #Funzionalita
 
 **Cifratura file e directory**
+
 **Decifrazione file e directory**
 
 
