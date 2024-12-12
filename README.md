@@ -15,7 +15,9 @@ Utilizzatelo con responsabilità e rispettando le leggi locali, nazionali e inte
 #Struttura del progetto
 
 -server.java: runnando il programma su una macchina, la metteremo in ascolto su una porta, per ricevere dei dati, in questo caso la chiave di decriptazione dei file
+
 -Crittografia.java: codice che verrà eseguito sulla macchina vittima, criptando i dati, e richiedendo successivamente la chiave per poter decriptare i dati
+
 
 #IMPORTANTE
 
