@@ -12,6 +12,7 @@ Utilizzatelo con responsabilità e rispettando le leggi locali, nazionali e inte
 
 **Decifrazione file e directory**
 
+---
 
 #Struttura del progetto
 
@@ -19,6 +20,7 @@ Utilizzatelo con responsabilità e rispettando le leggi locali, nazionali e inte
 
 -Crittografia.java: codice che verrà eseguito sulla macchina vittima, criptando i dati, e richiedendo successivamente la chiave per poter decriptare i dati
 
+---
 
 #IMPORTANTE
 
