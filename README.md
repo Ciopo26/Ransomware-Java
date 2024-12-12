@@ -26,3 +26,11 @@ Utilizzatelo con responsabilità e rispettando le leggi locali, nazionali e inte
 
 Si consiglia di non utilizzare il programma sulla propria macchina personale, ma di testarlo su una sandbox o macchina virtuale.
 
+---
+
+#Istruzioni per l'uso
+
+Per utilizzare correttamente il ransomware, è necessario che il server sia in ascolto.
+Nel metodo mandaDati presente in Crittografia.java è necessario inserire l'indirizzo IP della macchina che farà da server,
+mentre nel mail la stringa "directory" indica il percorso della directory da criptare.
+
