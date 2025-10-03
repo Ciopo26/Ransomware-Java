@@ -11,7 +11,7 @@ import java.net.Socket;
 public class server {
 
 	public static void main(String[] args) {
-		String percorso = "C:\\Users\\FedericoCipolletti\\OneDrive - ITS Angelo Rizzoli\\Desktop\\soos.txt";
+		String percorso = "C:\\Users\\Federico\\chiave.txt";
 		//inizializzazione server
 		try(ServerSocket socket = new ServerSocket(5000)){
 			System.out.println("Server Ora in ascolto sulla porta 5000");
@@ -42,3 +42,4 @@ public class server {
 		}
 	}	
 }
+
